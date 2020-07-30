@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrigore&show_icons=true" alt="Grigore's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrigore&show_icons=true&count_private=true" alt="Grigore's github stats"/>
 
 <br/>
 <br/>
