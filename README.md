@@ -34,7 +34,7 @@
 <div>
 <b>Android Developer @</b>
 <br/>
-<a href="https://www.roweb.ro/"> <img alt="roweb" height="15px" src="https://lh3.googleusercontent.com/proxy/U_mGf69-m5kIVp5KuuGl7Kv8R8v_vbaGPBVZCjXIlzzofHiA_i5CkKs6IJsZQVEYuZOWHeSJY8lb-6htl7Mnp6aQXwRMuc9a_mJqZfhQokdXggx2SVXaNAPaTm13Yix_GGAWC9LefA"/>
+<a href="https://www.roweb.ro/"> <img alt="roweb" height="15px" src="https://lh3.googleusercontent.com/proxy/eB6itn4fX-vGO2FjtXEJae-ce2dXTPG8ZQ7t3fERfsLsotOnsDHjhDKwQ4xFFM1_mVz2IS9P0ISZvDKgXCUztUQVQSjGd5Fgqm96d_9jWzwlWdi-53-7Olm3alEy7XeXH-ZlBuIuKA"/>
 </a>
 </div>
 
