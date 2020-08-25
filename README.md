@@ -34,7 +34,7 @@
 <div>
 <b>Android Developer @</b>
 <br/>
-<a href="https://www.roweb.ro/"> <img alt="roweb" height="15px" src="imgs/roweb_log.png"/>
+<a href="https://www.roweb.ro/"> <img alt="roweb" height="15px" src="https://raw.githubusercontent.com/grrigore/grrigore/master/imgs/roweb_log.png"/>
 </a>
 </div>
 
