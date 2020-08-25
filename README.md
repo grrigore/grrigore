@@ -77,7 +77,8 @@
 <img align="left" height="50" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"/>
 <img align="left" height="50" src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"/>  
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"/>
+<img align="left" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>   
 <img align="left" height="50" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-1.png"/>  
 </div>
 
