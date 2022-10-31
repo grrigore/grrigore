@@ -56,7 +56,7 @@
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
-<img align="left" height="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"/>  
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>  
 <img align="left" height="50" src="https://cdn.worldvectorlogo.com/logos/knockout.svg"/>
 </div>
 
