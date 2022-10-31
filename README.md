@@ -57,6 +57,7 @@
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>  
+<img align="left" height="50" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png"/>  
 <img align="left" height="50" src="https://cdn.worldvectorlogo.com/logos/knockout.svg"/>
 </div>
 
