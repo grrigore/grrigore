@@ -86,7 +86,7 @@
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
 <img align="left" height="50" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"/>
-<img align="left" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>   
+<img align="left" height="50" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>   
 </div>
   
 <br/>
