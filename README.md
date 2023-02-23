@@ -84,24 +84,5 @@
 <div>  
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
-<img align="left" height="50" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"/>
-<img align="left" height="50" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>   
 </div>
-  
-<br/>
-<br/>
-<br/>
-<br/>
-
-<b>Interests:</b>
-<br/>
-<div>
-<img align="left" height="50" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"/>
-<img align="left" height="50" src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"/>
-<img align="left" height="50" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-1.png"/>  
-</div>
-
-
