@@ -53,12 +53,6 @@
 <div>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>  
-<img align="left" height="50" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png"/>  
-<img align="left" height="50" src="https://cdn.worldvectorlogo.com/logos/knockout.svg"/>
 </div>
 
 <br/>
@@ -72,6 +66,12 @@
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"/>
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>  
+<img align="left" height="50" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png"/>  
+<img align="left" height="50" src="https://cdn.worldvectorlogo.com/logos/knockout.svg"/>
 </div>
 
 <br/>
@@ -84,5 +84,4 @@
 <div>  
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
-<img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"/>
 </div>
